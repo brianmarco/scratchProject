@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.029" errors="0" skipped="0" tests="3" name="brianmarco.scratchProject.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre\bin"/>
+    <property name="java.vm.version" value="23.5-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject"/>
+    <property name="java.runtime.version" value="1.7.0_09-b05"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject"/>
+    <property name="java.endorsed.dirs" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="C:\Users\BRIAN_~1\AppData\Local\Temp\surefirebooter8740320013832489841.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\BRIAN_~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Perforce;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Calibre2\;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Perforce;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Calibre2\;C:\Users\brian_000\development\java\jdk1.7.0_09\bin;C:\Users\brian_000\development\maven\2.2.1\bin;C:\Users\brian_000\development\googlecl;."/>
+    <property name="surefire.test.class.path" value="C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject\target\test-classes;C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject\target\classes;C:\Users\brian_000\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.2"/>
+    <property name="user.home" value="C:\Users\brian_000"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="brian_000"/>
+    <property name="java.class.path" value="C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject\target\test-classes;C:\Users\brian_000\development\eclipse\workspaces\scratch\ScratchProject\target\classes;C:\Users\brian_000\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar;"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre"/>
+    <property name="sun.java.command" value="C:\Users\BRIAN_~1\AppData\Local\Temp\surefirebooter8740320013832489841.jar C:\Users\BRIAN_~1\AppData\Local\Temp\surefire4041865991071979652tmp C:\Users\BRIAN_~1\AppData\Local\Temp\surefire3007495471896009049tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_09"/>
+    <property name="java.ext.dirs" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\resources.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\rt.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\sunrsasign.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\jsse.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\jce.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\charsets.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\lib\jfr.jar;C:\Users\brian_000\development\java\jdk1.7.0_09\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="C:\Users\brian_000\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.005" classname="brianmarco.scratchProject.AppTest" name="testDoReverseWords"/>
+  <testcase time="0" classname="brianmarco.scratchProject.AppTest" name="testDoReverseWordsEmptyInput"/>
+  <testcase time="0" classname="brianmarco.scratchProject.AppTest" name="testDoReverseWordsNullInput"/>
+</testsuite>
